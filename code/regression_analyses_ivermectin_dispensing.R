@@ -2,7 +2,7 @@
 #                                                                              #
 # PROJECT: Changes in the scope & intent of US state legislation on ivermectin #
 #          and pharmacy dispensing trends, 2020–2026                           #                                                                           #
-# CODED BY: Jessica Ibiebele                                                   #
+# CODED BY: Jessica Ibiebele, Tianci Chen, and Kayoko Shioda                   #
 # DATE: October 13, 2026                                                       #
 #                                                                              #
 ################################################################################
