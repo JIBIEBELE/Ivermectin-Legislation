@@ -10,9 +10,6 @@
 ## Manuscript Figure 3: Distribution of state-level ivermectin legislative activity 
 ## by number of bills introduced and passage status (January 2020-September 2026) 
 
-# Set working directory
-setwd('/Users/jessicaibiebele/Documents/Ivermectin/Manuscripts/Scientific Reports Submission')
-
 # Load packages
 library(ggplot2)
 library(sf)
